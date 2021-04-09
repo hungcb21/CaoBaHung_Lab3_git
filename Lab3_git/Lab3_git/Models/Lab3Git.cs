@@ -7,7 +7,7 @@ namespace Lab3_git.Models
 {
     public class Lab3Git
     {
-        //them gi do
+        //them gi doasd
         //Them 1 class va push len server lan thu 2
     }
 }
