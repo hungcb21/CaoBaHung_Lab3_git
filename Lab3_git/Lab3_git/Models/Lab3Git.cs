@@ -7,5 +7,6 @@ namespace Lab3_git.Models
 {
     public class Lab3Git
     {
+        //them gi do
     }
 }
